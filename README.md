@@ -1,10 +1,17 @@
-# 100x Data Engineer Assessment – Mohamed Shafik
+# Data Engineer Assessment - 100x
 
-## 👋 Introduction
-Hi, I’m **Mohamed Shafik**. This repository contains my solution for the **Data Engineer Assessment** as part of the hiring process at **100x**.
-
-The goal of this project is to demonstrate my ability to design, build, and document an end-to-end data engineering workflow including SQL, Python, and data processing.
+### Candidate: **Mohamed Shafik**
 
 ---
 
-## 📂 Repository Structure
+## 📌 Overview
+
+This repository contains my submission for the **100x Data Engineer Assessment**.
+
+The goal of this project is to demonstrate data engineering skills through SQL queries, Python ETL scripting, and reproducible documentation.
+
+---
+
+## 🗂 Folder Structure
+
+
